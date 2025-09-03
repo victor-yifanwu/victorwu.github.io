@@ -20,7 +20,7 @@ Work experience
   * Focus on machine learning and large language models 
   * Supervisor: Prof. Shuang Qiu   
 
-* Sep. 2025 – Present: Research Intern, Huawei Hong Kong Research Institute  
+* Sep. 2025 – Present: Research Visitor, Huawei Hong Kong Research Institute  
   * Focus on reasoning in large language models (LLMs) 
 
 * Aug. 2025 – Sep. 2025: Machine Learning Intern, SF Technology  
