@@ -38,7 +38,7 @@ Prior to CUHK, I was a Research Assistant at **Fudan University**, under the sup
   * Focus: Reinforcement Learning from Human Feedback (RLHF)  
 
 - **Jul. 2024 – Sep. 2025**: Research Assistant, *Fudan University*  
-  * Focus: OOD detection, noisy label handling, influence functions  
+  * Focus: OOD detection, noisy label learning, influence functions  
   * Supervisor: Prof. Weizhong Zhang  
 
 - **Jun. 2021 – Aug. 2021**: Algorithm Research Intern, *CloudWalk Technology Co., Ltd.*  
