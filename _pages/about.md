@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 👋 Hi, I’m **Yifan Wu (吴一凡)**.  
-I am currently a MSc student in Artificial Intelligence at **The Chinese University of Hong Kong (CUHK)**. At the same time, I work as a part-time Research Assistant at **City University of Hong Kong**, supervised by [Prof. Shuang Qiu](https://shq-ml.github.io/).  
-
+I am currently a MSc student in Artificial Intelligence at **The Chinese University of Hong Kong (CUHK)**.  
 Prior to CUHK, I was a Research Assistant at **Fudan University**, under the supervision of [Prof. Weizhong Zhang](https://weizhonz.github.io/) and [Prof. Xiangyang Xue](https://scholar.google.com/citations?user=DTbhX6oAAAAJ&hl=en).  
 
 ---
@@ -27,9 +26,6 @@ Prior to CUHK, I was a Research Assistant at **Fudan University**, under the sup
 ---
 
 ### 💼 Work Experience
-- **Sep. 2025 – Present**: Part-time Research Assistant, *City University of Hong Kong*  
-  * Focus: Machine learning and large language models  
-  * Supervisor: Prof. Shuang Qiu  
 
 - **Sep. 2025 – Present**: Research Visitor, *Huawei Hong Kong Research Institute*  
   * Focus: Reasoning in large language models (LLMs)  
