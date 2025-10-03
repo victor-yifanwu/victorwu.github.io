@@ -27,7 +27,7 @@ Prior to CUHK, I was a Research Assistant at **Fudan University**, under the sup
 
 ### 💼 Work Experience
 
-- **Sep. 2025 – Present**: Research Visitor, *Huawei Hong Kong Research Institute*  
+- **Sep. 2025 – Oct. 2025**: Research Visitor, *Huawei Hong Kong Research Institute*  
   * Focus: Reasoning in large language models (LLMs)  
 
 - **Aug. 2025 – Sep. 2025**: Machine Learning Intern, *SF Technology*  
