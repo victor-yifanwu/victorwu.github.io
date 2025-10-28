@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 👋 Hi, I’m **Yifan Wu (吴一凡)**.  
-I am currently a MSc student in Artificial Intelligence at **The Chinese University of Hong Kong (CUHK)**.  
+I am currently a MSc student in Artificial Intelligence at **The Chinese University of Hong Kong (CUHK)** and a research intern under [Prof. Yu Li](https://liyu95.com/).
 Prior to CUHK, I was a Research Assistant at **Fudan University**, under the supervision of [Prof. Weizhong Zhang](https://weizhonz.github.io/) and [Prof. Xiangyang Xue](https://scholar.google.com/citations?user=DTbhX6oAAAAJ&hl=en).  
 
 ---
@@ -16,6 +16,7 @@ Prior to CUHK, I was a Research Assistant at **Fudan University**, under the sup
 ### 🎯 Research Interests
 - Efficient Computational Algorithms  
 - Generative AI and Large Language Models  
+- AI for Bioinformatics
 
 ---
 
