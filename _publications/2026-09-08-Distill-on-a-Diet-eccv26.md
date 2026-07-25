@@ -1,0 +1,11 @@
+---
+title: "Distill on a Diet: Efficient Knowledge Distillation via Learnable Data Pruning"
+collection: publications
+category: conference
+permalink: /publication/2026-Distill-on-a-Diet
+date: 2026-09-08
+venue: 'European Conference on Computer Vision (ECCV)'
+authors: "<strong>Yifan Wu*</strong>, Yiqi Wang*, Xichen Ye*, Wenjing Yan, Xiaoqiang Li<sup>#</sup>, Cheng Jin, Xiangyu Yue, and Weizhong Zhang<sup>#</sup>"
+paperurl: 'https://arxiv.org/abs/2606.25488'
+---
+Knowledge Distillation (KD) is widely used to obtain compact models for efficient inference in resource-constrained environments. Yet the computational overhead of the distillation process itself is often overlooked, raising the question of whether a better student model can be obtained with less data and less compute via data pruning. However, existing data pruning methods are not designed for KD: some introduce substantial overhead, such as obtaining training dynamics through retraining, while others rely on heuristic selection rules that fail to capture what KD actually requires, often resulting in suboptimal subsets. To address these issues, we propose IF-Beta, an efficient data pruning framework that combines influence function and a learnable sampling policy. Empirically, we first demonstrate that influence functions can serve as an effective and efficient estimator of sample impact in KD settings, where only a pretrained teacher is available. Building on this, our sampling policy is specifically parameterized by a Beta distribution, whose highly flexible two-parameter family allows the policy to adapt to diverse pruning regimes rather than being tied to fixed heuristic forms. Next, we formulate KD pruning as optimizing this policy through a bilevel objective, where the inner loop operates in the teacher's feature space with a KD-aligned objective, enabling fast proxy training, while the outer loop updates the policy parameters to maximize the distillation performance. This design ensures IF-Beta is both computationally efficient and inherently aligned with the goals of KD. Extensive experiments on CIFAR-10, CIFAR-100, and ImageNet show that IF-Beta consistently outperforms other baselines across a wide range of pruning ratios. Remarkably, IF-Beta enables students trained on less data and less compute to surpass the performance of students distilled on the full dataset.
